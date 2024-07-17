@@ -7,5 +7,5 @@ Repository structure:
 
 
 *******************************************************************
-Owner:
+by:
 Selina Zajdler, University of Mannheim
